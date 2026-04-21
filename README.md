@@ -1,4 +1,4 @@
-# Olá, eu sou o Davi Gomes! 👋
+# Olá, eu sou o Davi! 👋
 
 ### 👨‍💻 Sobre Mim
 Desenvolvedor Full Stack focado em criar soluções eficientes e automatizadas. Atualmente, dedico meus dias a construir aplicações robustas com **React** e **Node.js**, além de otimizar processos através de **scripts inteligentes em Python**.
