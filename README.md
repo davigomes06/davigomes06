@@ -20,4 +20,4 @@ Desenvolvedor Full Stack focado em criar soluções eficientes e automatizadas. 
 
 ---
 📫 **Vamos conversar?**
-[Meu LinkedIn](https://www.linkedin.com/in/davi-gomes-b326b139b/) | [Meu E-mail](davigomesaz06@gmail.com)
+[Meu LinkedIn](https://www.linkedin.com/in/davi-gomes-b326b139b/) 
